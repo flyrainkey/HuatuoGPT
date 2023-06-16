@@ -44,7 +44,7 @@ To leverage the best of both distilled data (from ChatGPT) and real-world data (
 
 ### Model Access
 
-- [HuatuoGPT-v1](https://huggingface.co/FreedomIntelligence/HuatuoGPT-7b-v1)
+- [HuatuoGPT-v1](https://huggingface.co/FreedomIntelligence/HuatuoGPT-7b-v1) (Currently unavailable, coming soon.)
 
 ### Deploy
 
@@ -124,3 +124,13 @@ Without these, nothing could happen in this repository.
 
 We are from the School of Data Science, the Chinese University of Hong Kong, Shenzhen (CUHKSZ) and the Shenzhen Rsearch
 Institute of Big Data (SRIBD).
+
+## Star History
+
+<a href="https://star-history.com/#FreedomIntelligence/HuatuoGPT&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FreedomIntelligence/HuatuoGPT&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FreedomIntelligence/HuatuoGPT&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FreedomIntelligence/HuatuoGPT&type=Date" />
+  </picture>
+</a>
